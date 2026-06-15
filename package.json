@@ -1,0 +1,21 @@
+{
+  "name": "davaleba-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lansoseliaa12/davaleba-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lansoseliaa12/davaleba-11/issues"
+  },
+  "homepage": "https://github.com/lansoseliaa12/davaleba-11#readme"
+}
